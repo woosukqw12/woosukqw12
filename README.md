@@ -3,7 +3,7 @@
 # Hi, I'm Wooseok Choi 👋
 
 **Korea University · Computer Science & Engineering**
-ML/RL 공부하고, 생활에서 불편한 걸 작은 웹앱으로 만들어요.
+ML/AI 연구를 하고, 사이드 프로젝트로 각종 개발도 하며 놀아요
 
 <a href="mailto:woosukqw@korea.ac.kr"><img src="https://img.shields.io/badge/Email-woosukqw@korea.ac.kr-A51C30?style=flat-square&logo=gmail&logoColor=white" /></a>
 
